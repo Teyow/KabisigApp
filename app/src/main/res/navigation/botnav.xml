@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/botnav"
+    app:startDestination="@id/Guideline">
+
+    <fragment
+        android:id="@+id/Guideline"
+        android:name="com.example.kabisig.Guidlines"
+        android:label="fragment_guidlines"
+        tools:layout="@layout/fragment_guidlines" />
+    <fragment
+        android:id="@+id/EHC"
+        android:name="com.example.kabisig.EHC"
+        android:label="fragment_e_h_c"
+        tools:layout="@layout/fragment_e_h_c" />
+</navigation>

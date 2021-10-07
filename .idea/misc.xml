@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/drawable/ic_baseline_add_alert_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/drawable/textview_border.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/acitivity_vulnerability_map.xml" value="0.1578125" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/activity_account_verification2.xml" value="0.9216216216216216" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/activity_account_verify.xml" value="0.46367851622874806" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/activity_chat.xml" value="0.1578125" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/activity_loginpage.xml" value="0.16005121638924455" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/activity_navbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/activity_protocols_evacuation_center.xml" value="0.1578125" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/activity_protocols_guidelines.xml" value="0.264" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/activity_registration.xml" value="0.176" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/activity_reports.xml" value="0.264" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/fragment_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/fragment_e_h_c.xml" value="0.2" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/fragment_guidlines.xml" value="0.264" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/fragment_protocol.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/fragment_report.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/fragment_vulnerability_map.xml" value="0.1" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/guidelines.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/layout/navbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/menu/bot_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/theor/AndroidStudioProjects/Kabisig/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kabisig</string>
+
+    <string name="textNote"><b>Login your Account</b></string>
+    <string name="textAccReg"><b>Account Registration</b></string>
+    <string name="textAccVer"><b>Account Verification</b></string>
+    <string name="textID"><b>Take a Photo - Valid ID</b></string>
+    <string name="textID2"><b>Take a Photo of yourself</b></string>
+    <string name="Instruction">We need to determine whether the identity you have provided is authentic and belongs to you.</string>
+    <string name="textInstructionNote"><i>Note: Make sure that the document is similar to the information provided.</i></string>
+    <string name="Email"><b>Email</b></string>
+    <string name="Password"><b>Password</b></string>
+    <string name="bttnRegister"><b>Register</b></string>
+    <string name="registerText"><b>Register Now!</b></string>
+    <string name="textLog"><b>Login</b></string>
+    <string name="textheading"><b>HEADING</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="report">report</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+</resources>
+
